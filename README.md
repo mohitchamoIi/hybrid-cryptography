@@ -51,7 +51,7 @@ It also uses **Base64 encoding** and **compression** to prepare data for secure 
 ![Encryption Diagram](./encrypt.png)
 
 ### 🔸 Decryption Process
-![Decryption Diagram](./Decrypt.png)
+![Decryption Diagram](./Decrypt.jpg)
 
 ---
 
