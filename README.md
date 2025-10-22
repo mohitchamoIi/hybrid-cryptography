@@ -48,10 +48,10 @@ It also uses **Base64 encoding** and **compression** to prepare data for secure 
 ## ⚙️ Architecture
 
 ### 🔸 Encryption Process
-![Encryption Diagram](./images/encryption_process.jpg)
+![Encryption Diagram](./encrypt.png)
 
 ### 🔸 Decryption Process
-![Decryption Diagram](./images/decryption_process.jpg)
+![Decryption Diagram](./Decrypt.png)
 
 ---
 
