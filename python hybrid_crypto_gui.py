@@ -9,6 +9,7 @@ from cryptography.hazmat.primitives import hashes, serialization
 from cryptography.hazmat.primitives.ciphers import Cipher, algorithms, modes
 import secrets
 
+
 # ========== CONFIG ==========
 ctk.set_appearance_mode("dark")
 ctk.set_default_color_theme("blue")
