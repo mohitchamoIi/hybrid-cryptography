@@ -35,7 +35,7 @@ def save_keys(private_key, public_key, password: bytes, folder="keys"):
             )
         )
 
-    # Save public key
+    # store public key
     with open(os.path.join(folder, "public_key.pem"), "wb") as f:
         f.write(
             public_key.public_bytes(
