@@ -12,7 +12,7 @@ import secrets
 
 # ========== CONFIG ==========
 ctk.set_appearance_mode("dark")
-ctk.set_default_color_theme("blue")
+ctk.set_default_color_theme("white")
 
 # ========== CRYPTO UTILS ==========
 
