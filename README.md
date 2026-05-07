@@ -168,7 +168,6 @@ Title: Hybrid Cryptography Using AES and ECC
 -aditya sajwan
 -neelesh gusain
 
-Under guidance of [saksham mittal]
 
 📦 requirements.txt
 
